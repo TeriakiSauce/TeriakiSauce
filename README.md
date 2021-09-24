@@ -2,7 +2,7 @@
 - 👀 I’m interested in building up my programming knowledge
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to practice and get more confident at coding
-- 📫 Reach me at rikbeld@gmail.com
+- 📫 Reach me at rikbeld@gmail.com or tarikbeldjehem@cmail.carleton.ca
 
 <!---
 TeriakiSauce/TeriakiSauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
