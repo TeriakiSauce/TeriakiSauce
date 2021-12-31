@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeriakiSauce
 - 👀 I’m interested in building up my programming knowledge
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C and Javascript
 - 💞️ I’m looking to practice and get more confident at coding
 - 📫 Reach me at rikbeld@gmail.com
 
