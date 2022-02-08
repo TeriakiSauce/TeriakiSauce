@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TeriakiSauce
 - 👀 I’m interested in building up my programming knowledge
-- 🌱 I’m currently learning C and Javascript
-- 💞️ I’m looking to practice and get more confident at coding
-- 📫 Reach me at rikbeld@gmail.com
+- 🌱 I’m currently focusing on OOP in Java and Python
+- 💞️ I’m looking to practice and learn as much as I can
 
 <!---
 TeriakiSauce/TeriakiSauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
