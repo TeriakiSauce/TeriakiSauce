@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeriakiSauce
+- 👋 Hi, I’m Tarik
 - 👀 I’m interested in building up my programming knowledge
 - 🌱 I’m currently focusing on OOP in Java and Python
 - 💞️ I’m looking to practice and learn as much as I can
