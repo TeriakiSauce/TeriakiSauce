@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarik
 - 👀 I’m interested in all things programming
-- 🌱 I’m currently focusing on building an Android App in Java
+- 🌱 I’m currently working on web development projects
 - 💞️ I’m looking to practice and learn as much as I can
 
 <!---
